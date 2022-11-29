@@ -32,7 +32,9 @@
     "web-vitals": "^1.0.1"
   },
   "scripts": {
-    "start": "react-scripts  start",
+
+    "start": "react-scripts --openssl-legacy-provider start",
+    
     "build": "react-scripts  build",
     "deploy": "yarn run build && cd node_modules && cd .bin && gh-pages -d ../../build",
     "test": "react-scripts test",
