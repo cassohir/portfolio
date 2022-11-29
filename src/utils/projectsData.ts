@@ -30,6 +30,7 @@ export const dataProjects = [
     descripton: [
       "Este projeto simula um controle de caixa | moneyflow, foi desenvolvido em reactjs e typescript.",
       "O intuito do projeto é disponibilizar uma forma simples de controle financeiro.",
+      "URl Pública: https://cs-moneyflow.netlify.app/"
     ],
     link: "https://github.com/cassohir/money-flow",
     category: ["Front-End"]
@@ -65,6 +66,18 @@ export const dataProjects = [
       "O projeto é feito para ser uma extensão que auxilia usuários dentro de sites."
     ],
     link: "https://github.com/cassohir/feedget",
+    category: ["Front-End"]
+  },
+   {
+    id: 7,
+    title: "Coffee Delivery",
+    banner: "/assets/coffeeDelivery.jpeg",
+    descripton: [
+      "Aplicação Web para delivery de café, onde o usuário pode escolher o tipo de café, e a quantidade.",
+      "O projeto foi desenvolvido em ReactJS e Typescript, e simula um e-commerce de produtos.",
+      "URl Pública:https://cs-coffee-delivery.netlify.app/"
+    ],
+    link: "https://github.com/cassohir/coffee-delivery",
     category: ["Front-End"]
   }
 ]
