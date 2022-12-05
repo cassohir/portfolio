@@ -15,34 +15,40 @@ export const dataAcademy = [
 
 export const dataProfessional = [
   {
+    title: "Desenvolvedor Front-end",
+    local: "Grupo Ivy",
+    date: "2022 - atual",
+    id: 1
+  },
+  {
     title: "Técnico de TI",
     local: "Arkmeds",
     date: "2020 - 2022",
-    id: 1
+    id: 2
   },
   {
     title: "Técnico de Redes ",
     local: "SolarView",
     date: "2020 - 2022",
-    id: 2
+    id: 3
   },
   {
     title: "Técnico de Eletrônica",
     local: "Eletrogate",
     date: "2020",
-    id: 3
+    id: 4
   },
   {
     title: "Instrutor de Programação",
     local: "Codebuddy | Escola de Tecnologia",
     date: "2020",
-    id: 4
+    id: 5
   },
   
   {
     title: "Menor Aprendiz",
     local: "São Cristóvão Transportes Ltda",
     date: "2019 - 2020",
-    id: 5
+    id: 6
   }
 ]
